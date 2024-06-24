@@ -1,0 +1,5 @@
+train: C:\Users\merno\Documents\YOLOv5 DATASETS\dataset1\images\train
+val: C:\Users\merno\Documents\YOLOv5 DATASETS\dataset1\images\val
+
+nc: 3
+names: ['Block', 'Child', 'Main']
